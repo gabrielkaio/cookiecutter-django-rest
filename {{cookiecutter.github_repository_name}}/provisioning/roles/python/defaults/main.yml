@@ -1,0 +1,2 @@
+venv_path: /home/vagrant/venv
+requirements_path: /vagrant/requirements.txt
