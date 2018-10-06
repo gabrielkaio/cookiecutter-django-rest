@@ -3,5 +3,7 @@
     "app_name": "piedpiper",
     "email": "richard.hendriks@piedpiper.com",
     "description": "Its all about a Weissman score > 5.0",
-    "github_username": "The owner of the repository. Either your github username or organization name."
+    "github_username": "The owner of the repository. Either your github username or organization name.",
+
+    "_copy_without_render": ["*provisioning"]
 }
