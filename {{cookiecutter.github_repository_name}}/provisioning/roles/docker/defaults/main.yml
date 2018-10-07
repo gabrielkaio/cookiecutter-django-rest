@@ -10,7 +10,7 @@ service_state: started
 service_enabled: true
 restart_handler_state: restarted
 opts: ''
-network_address: "{{ VM.network.private.address }}"
+network_address: 0.0.0.0
 
 # Docker Compose options.
 install_compose: true
